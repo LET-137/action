@@ -22,5 +22,5 @@ jobs:
            -project action.xcodeproj \
            -scheme action \
            -sdk iphonesimulator \
-           -destination 'platform=iOS Simulator,name=iPhone 14' \
+           -destination 'platform=iOS Simulator' \
            build
